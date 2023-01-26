@@ -13,7 +13,7 @@
     "additionalProperties": false,
     "patternProperties": {
       "currency": {
-        "enum": ["RUR", "USD"]
+        "enum": ["RUB", "USD"]
       }
     },
     "properties": {
