@@ -11,6 +11,11 @@
       "currency"
     ],
     "additionalProperties": false,
+    "patternProperties": {
+      "currency": {
+        "enum": ["RUR", "USD"]
+      }
+    },
     "properties": {
       "id": {
         "type": "integer"
