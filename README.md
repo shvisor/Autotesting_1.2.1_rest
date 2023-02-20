@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rw8x3yt89vtbxk2s?svg=true)](https://ci.appveyor.com/project/shvisor/autotesting-2-1-rest)
+[![Build status](https://ci.appveyor.com/api/projects/status/gxi9u1ywrbuh1a9u/branch/main?svg=true)](https://ci.appveyor.com/project/shvisor/autotesting-1-2-1-rest/branch/main)
+
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
